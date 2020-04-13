@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12034a32-0129-4e39-bcef-f6c793def5dd" name="Default Changelist" comment="" />
+    <list default="true" id="12034a32-0129-4e39-bcef-f6c793def5dd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Final6240Linux.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,7 +19,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Network-Tool" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aBYXNm91LpwhtoON8q2vDzv5kX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -27,7 +31,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ui" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -37,6 +41,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Cayden\PycharmProjects\nettest" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Cayden\PycharmProjects\nettest\ui" />
       <recent name="C:\Users\Cayden\PycharmProjects\nettest" />
@@ -180,6 +187,8 @@
       <workItem from="1586653733358" duration="691000" />
       <workItem from="1586657288463" duration="15346000" />
       <workItem from="1586714315885" duration="3561000" />
+      <workItem from="1586723560118" duration="5092000" />
+      <workItem from="1586803191683" duration="503000" />
     </task>
     <servers />
   </component>
@@ -211,30 +220,30 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1699" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1586642450787" />
-    <state width="1234" height="294" key="GridCell.Tab.0.bottom" timestamp="1586716454502">
+    <state width="1236" height="292" key="GridCell.Tab.0.bottom" timestamp="1586734765408">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="294" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586716454502" />
-    <state width="1234" height="294" key="GridCell.Tab.0.center" timestamp="1586716454502">
+    <state width="1236" height="292" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1586734765408" />
+    <state width="1236" height="292" key="GridCell.Tab.0.center" timestamp="1586734765408">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="294" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586716454502" />
-    <state width="1234" height="294" key="GridCell.Tab.0.left" timestamp="1586716454502">
+    <state width="1236" height="292" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1586734765408" />
+    <state width="1236" height="292" key="GridCell.Tab.0.left" timestamp="1586734765408">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="294" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586716454502" />
-    <state width="1234" height="294" key="GridCell.Tab.0.right" timestamp="1586716454502">
+    <state width="1236" height="292" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1586734765408" />
+    <state width="1236" height="292" key="GridCell.Tab.0.right" timestamp="1586734765408">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1234" height="294" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586716454502" />
+    <state width="1236" height="292" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1586734765408" />
     <state x="1421" y="342" key="SettingsEditor" timestamp="1586656811381">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1421" y="342" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1586656811381" />
-    <state x="981" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1586714328457">
+    <state x="981" y="524" key="com.intellij.ide.util.TipDialog" timestamp="1586803546753">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="981" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586714328457" />
+    <state x="981" y="524" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1586803546753" />
     <state x="1273" y="0" width="1294" height="1407" key="dock-window-1" timestamp="1586715290142">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -252,6 +261,6 @@
     <SUITE FILE_PATH="coverage/nettest$Final6240.coverage" NAME="Final6240 Coverage Results" MODIFIED="1586213346218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
     <SUITE FILE_PATH="coverage/nettest$Final.coverage" NAME="Final Coverage Results" MODIFIED="1586635425489" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
     <SUITE FILE_PATH="coverage/nettest$embedding_in_qt_sgskip.coverage" NAME="embedding_in_qt_sgskip Coverage Results" MODIFIED="1586673690559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ui" />
-    <SUITE FILE_PATH="coverage/nettest$Final6240__1_.coverage" NAME="Final6240 (1) Coverage Results" MODIFIED="1586716067158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/nettest$Final6240__1_.coverage" NAME="Final6240 (1) Coverage Results" MODIFIED="1586734071342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
